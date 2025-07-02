@@ -1,0 +1,4 @@
+The causal_llm.py contains the code for our data-driven model.
+The config_models contains config for all the causal aglorithms we have used to benchmark our model.
+The main_runner evaluates all the causal algorithms on the dataset and ground truth DAG.
+The run.ipynb showcases a demo to run and evaluate these models.

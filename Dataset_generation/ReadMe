@@ -1,0 +1,4 @@
+The config_datasets.py contains the configuration to generate the datasets.
+data2.py contains code to pull publicly available datasets from Causal Discovery Toolbox and bnlearn
+data_gen_functions.py contains the code to generate synthetic datasets
+The run.ipynb showcases a demo to generate synthetic datasets
